@@ -10,7 +10,7 @@
 ## Setup
 
 1. Install Project Dependencies
-    - In terminal, in `slack-funs` directory, run: `npm install`
+    - In terminal, in `slack-bc-wfa` directory, run: `npm install`
 
 ## Development
 
