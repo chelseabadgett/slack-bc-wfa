@@ -23,7 +23,7 @@ SLACK_SIGNING_SECRET=  # Slack Signing Secret found on Basic Information page
 BETTERCLOUD_TOKEN=     # BetterCloud API token created in BetterCloud APIs
 ```
 2. Start Application
-    - In terminal, in `slack-funs` directory, run: `npm run start`
+    - In terminal, in `slack-bc-wfa` directory, run: `npm run start`
 
 3. Expose Our Local Server Externally For Slack API
     - In separate terminal window, `ngrok http 3000`
